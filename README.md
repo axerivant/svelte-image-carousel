@@ -1,4 +1,4 @@
 # not production ready
 
 ## installation
-'npm i svelte-image-carousel'
+`npm i svelte-image-carousel`
